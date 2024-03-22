@@ -12,7 +12,7 @@ space.
 - [ePA](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/E-Health/Elektronische-Patientenakte/elektronische-patientenakte.html) -
   Germany's personal health record
 
-## Documentation & Standards
+## General Documentation & Normative Documents
 
 - **[DiGA Leitfaden](https://www.bfarm.de/SharedDocs/Downloads/DE/Medizinprodukte/diga_leitfaden.html)** - the bible for
   specifications and regulations regarding DiGAs
@@ -23,7 +23,7 @@ space.
 
 ## Code Validation & Invoicing
 
-- **[diga-api-client](https://github.com/alex-therapeutics/diga-api-client)** a Java library to interact with the DiGA
+- **[diga-api-client](https://github.com/alex-therapeutics/diga-api-client)** - Java library to interact with the DiGA
   API to validate and invoice prescription codes.
 
 ## GesundheitsID
