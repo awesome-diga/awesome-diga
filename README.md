@@ -28,6 +28,8 @@ space.
 
 ## GesundheitsID
 
+- **[OpenID Federation Specs](https://openid.net/specs/openid-federation-1_0.html)** - the standard behind the
+  GesundheitsID federation
 - **[TI-RelyingParty](https://github.com/BAYOOMED/TI-RelyingParty)** - simple OIDC adapter acting as Relying Party in
   the Gematik OIDC Federation (GesundheitsID) and providing standard OIDC for clients
 - **[ehealthid-relying-party](https://github.com/oviva-ag/ehealthid-relying-party)** - standalone server exposing
