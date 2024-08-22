@@ -46,3 +46,8 @@ space.
   Konnektor to write structured HL7/FHIR bundles for DiGA treatments into the electronic health record (ePA)
 - **[epa-ps-sim](https://github.com/gematik/epa-ps-sim)** - Simplified triggering of operations provided by the ePA
   Fachmodul of the Konnektor using a REST interface.
+- **[konnektor-watchdog](https://github.com/oviva-ag/konnektor-watchdog)** - exposing Prometheus metrics for a TI Konnektor
+
+## Dashboards
+
+- **[TI Lage](https://ti-lage.prod.ccs.gematik.solutions/d/W19ANiYnk/ti-dashboard-verlauf-erp?orgId=1&kiosk)** - Gematik status dashboard for the TI
