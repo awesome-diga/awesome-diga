@@ -51,3 +51,4 @@ space.
 ## Dashboards
 
 - **[TI Lage](https://ti-lage.prod.ccs.gematik.solutions/d/W19ANiYnk/ti-dashboard-verlauf-erp?orgId=1&kiosk)** - Gematik status dashboard for the TI
+- **[GesundheitsID Dashboard](https://gemiverse.spilikin.dev/federations/prod) - GesundheitsID Federation Member Overview
