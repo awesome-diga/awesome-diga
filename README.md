@@ -36,19 +36,25 @@ space.
   Germany's 'GesundheitsID' (eHealthID) as a OpenID Connect Relying Party (OIDC RP) + scripts to generate keys and
   federation registration form.
 
-## ePA
+## ePA 3.0
 
 - **[api-ePA](https://github.com/gematik/api-ePA)** - API definitions for ePA APIs
 - **[api-telematik](https://github.com/gematik/api-telematik)** - API definitions for the TI in general
-- **[gematik-epa-postman-collection](https://github.com/ikosta/gematik-epa-postman-collection)** - Postman-Collection
-  for DiGAs to make requests to the TI-Connector and write into the ePA
-- **[diga-epa-lib](https://github.com/oviva-ag/diga-epa-lib)** - Java library for Telematik-Infrastuktur (TI) via a
-  Konnektor to write structured HL7/FHIR bundles for DiGA treatments into the electronic health record (ePA)
-- **[epa-ps-sim](https://github.com/gematik/epa-ps-sim)** - Simplified triggering of operations provided by the ePA
-  Fachmodul of the Konnektor using a REST interface.
+- **[epa4all-client](https://github.com/oviva-ag/epa4all-client)** - Java library to write into the ePA 3.0 including VAU implementation
+- **[ePA3-Service](https://github.com/fbeta-GmbH/ePA3-Service-OpenSource)** - Python library to write into the ePA 3.0
 - **[konnektor-watchdog](https://github.com/oviva-ag/konnektor-watchdog)** - exposing Prometheus metrics for a TI Konnektor
 
 ## Dashboards
 
 - **[TI Lage](https://ti-lage.prod.ccs.gematik.solutions/d/W19ANiYnk/ti-dashboard-verlauf-erp?orgId=1&kiosk)** - Gematik status dashboard for the TI
 - **[GesundheitsID Dashboard](https://gemiverse.spilikin.dev/federations/prod)** - GesundheitsID Federation Member Overview
+
+
+## ePA 2.6 (Legacy)
+
+- **[gematik-epa-postman-collection](https://github.com/ikosta/gematik-epa-postman-collection)** - Postman-Collection
+  for DiGAs to make requests to the TI-Connector and write into the ePA
+- **[diga-epa-lib](https://github.com/oviva-ag/diga-epa-lib)** - Java library for Telematik-Infrastuktur (TI) via a
+  Konnektor to write structured HL7/FHIR bundles for DiGA treatments into the electronic health record (ePA)
+- **[epa-ps-sim](https://github.com/gematik/epa-ps-sim)** - Simplified triggering of operations provided by the ePA
+  Fachmodul of the Konnektor using a REST interface.
